@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="az.unibank.unitechapp.service.impl.AccountServiceImplTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-04-04T18:30:01" hostname="Apples-MacBook-Pro.local" time="0.883">
+  <properties/>
+  <testcase name="testTransferAccountToAccountWithErrorNotExistingAccount()" classname="az.unibank.unitechapp.service.impl.AccountServiceImplTest" time="0.851"/>
+  <testcase name="testTransferAccountToAccountWithErrorNotFoundAccount()" classname="az.unibank.unitechapp.service.impl.AccountServiceImplTest" time="0.003"/>
+  <testcase name="testTransferAccountToAccountSuccess()" classname="az.unibank.unitechapp.service.impl.AccountServiceImplTest" time="0.008"/>
+  <testcase name="testGetAccounts()" classname="az.unibank.unitechapp.service.impl.AccountServiceImplTest" time="0.003"/>
+  <testcase name="testTransferAccountToAccountWithErrorSameAccount()" classname="az.unibank.unitechapp.service.impl.AccountServiceImplTest" time="0.003"/>
+  <testcase name="testTransferAccountToAccountWithErrorDeactiveAccount()" classname="az.unibank.unitechapp.service.impl.AccountServiceImplTest" time="0.003"/>
+  <testcase name="testTransferAccountToAccountWithErrorBalanceLow()" classname="az.unibank.unitechapp.service.impl.AccountServiceImplTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

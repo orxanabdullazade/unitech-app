@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="az.unibank.unitechapp.service.impl.CurrencyServiceImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-04-04T18:30:07" hostname="Apples-MacBook-Pro.local" time="0.063">
+  <properties/>
+  <testcase name="testExchangeCurrencyFailure()" classname="az.unibank.unitechapp.service.impl.CurrencyServiceImplTest" time="0.044"/>
+  <testcase name="testExchangeCurrency()" classname="az.unibank.unitechapp.service.impl.CurrencyServiceImplTest" time="0.006"/>
+  <testcase name="testCurrencyRate()" classname="az.unibank.unitechapp.service.impl.CurrencyServiceImplTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

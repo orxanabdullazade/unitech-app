@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="az.unibank.unitechapp.service.impl.AuthServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-04-04T18:30:01" hostname="Apples-MacBook-Pro.local" time="5.651">
+  <properties/>
+  <testcase name="testLoginUserFailureWithWrongPassword()" classname="az.unibank.unitechapp.service.impl.AuthServiceImplTest" time="1.811"/>
+  <testcase name="testLoginUserFailureWithWrongPin()" classname="az.unibank.unitechapp.service.impl.AuthServiceImplTest" time="0.647"/>
+  <testcase name="testRegisterUserWithError()" classname="az.unibank.unitechapp.service.impl.AuthServiceImplTest" time="0.642"/>
+  <testcase name="testLoginUserSuccess()" classname="az.unibank.unitechapp.service.impl.AuthServiceImplTest" time="1.265"/>
+  <testcase name="testRegisterUser()" classname="az.unibank.unitechapp.service.impl.AuthServiceImplTest" time="1.281"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
